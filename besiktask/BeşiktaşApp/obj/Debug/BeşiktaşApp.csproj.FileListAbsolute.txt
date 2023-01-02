@@ -1,0 +1,121 @@
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\BeşiktaşApp.exe.config
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\BeşiktaşApp.exe
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\BeşiktaşApp.pdb
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\MySql.Data.dll
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\MySqlConnector.dll
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\System.Buffers.dll
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\System.Memory.dll
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\ZstdNet.dll
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\MySql.Data.xml
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\MySqlConnector.xml
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\System.Buffers.xml
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\System.Memory.xml
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.csproj.AssemblyReference.cache
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.admin.resources
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.Giris.resources
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.index.resources
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.kayıt.resources
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.kulüp.resources
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.kulüpadmin.resources
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.Properties.Resources.resources
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.csproj.GenerateResource.cache
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.csproj.CopyComplete
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.exe
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.pdb
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.taraftar.resources
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.infobesiktas.resources
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.tarihce.resources
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.messagefrombaskan.resources
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.vakıf.resources
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.iletisim.resources
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.gizlilikanlsma.resources
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.baskanmessageadmin.resources
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.iletisimadmin.resources
+C:\Users\Kadir\Desktop\Beşiktaş App\BeşiktaşApp\BeşiktaşApp\obj\Debug\BeşiktaşApp.brans.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\BeşiktaşApp.exe.config
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\BeşiktaşApp.exe
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\BeşiktaşApp.pdb
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\MySql.Data.dll
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\MySqlConnector.dll
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\System.Buffers.dll
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\System.Memory.dll
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\ZstdNet.dll
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\MySql.Data.xml
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\MySqlConnector.xml
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\System.Buffers.xml
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\System.Memory.xml
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.csproj.AssemblyReference.cache
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.admin.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.baskanmessageadmin.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.brans.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.Giris.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.gizlilikanlsma.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.iletisim.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.iletisimadmin.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.index.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.infobesiktas.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.kayıt.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.kulüp.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.kulüpadmin.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.messagefrombaskan.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.Properties.Resources.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.taraftar.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.tarihce.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.vakıf.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.csproj.GenerateResource.cache
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.csproj.CopyComplete
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.exe
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.pdb
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.basketboladmin.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.branslaradmin.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.futboladmin.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.vakifadmin.resources
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Kadir\Desktop\besiktask\BeşiktaşApp\obj\Debug\BeşiktaşApp.lig.resources
